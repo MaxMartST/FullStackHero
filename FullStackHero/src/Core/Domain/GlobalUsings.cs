@@ -1,0 +1,1 @@
+﻿global using FullStackHero.Domain.Common.Contracts;

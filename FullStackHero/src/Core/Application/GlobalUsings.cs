@@ -1,0 +1,17 @@
+global using Ardalis.Specification;
+global using FluentValidation;
+global using FullStackHero.Application.Common.Events;
+global using FullStackHero.Application.Common.Exceptions;
+global using FullStackHero.Application.Common.FileStorage;
+global using FullStackHero.Application.Common.Interfaces;
+global using FullStackHero.Application.Common.Models;
+global using FullStackHero.Application.Common.Persistence;
+global using FullStackHero.Application.Common.Specification;
+global using FullStackHero.Application.Common.Validation;
+global using FullStackHero.Domain.Catalog;
+global using FullStackHero.Domain.Common;
+global using FullStackHero.Domain.Common.Contracts;
+global using FullStackHero.Shared.Notifications;
+global using MediatR;
+global using Microsoft.Extensions.Localization;
+global using Microsoft.Extensions.Logging;
